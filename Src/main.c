@@ -38,7 +38,10 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
+
+/* FFT buffer size must be a power of 4!--------------------------------------*/
 #define FFT_BUFFER_SIZE 1024
+
 #define numofstripes 11
 /* USER CODE END PD */
 
